@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Screen Shot Star</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="minus_one">-1</string>
+    <string name="plus_one">+1</string>
+    <string name="send">Send</string>
+    <string name="email">Email:</string>
+    <string name="exit">Exit</string>
+    <string name="remove_all">Remove All Screenshots</string>
+
+
+</resources>
